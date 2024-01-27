@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <div>
+        <h1 style="color: brown;">Aryan Shah</h1>
+        <p>
+          Email: <a href="aryanshah1205@gmail.com">aryanshah1205@gmail.com</a>
+        </p>
+        <p>
+          Linkedein:
+          <a href="https://www.linkedin.com/in/aryan-shah012/"
+            >https://www.linkedin.com/in/aryan-shah012/</a
+          >
+        </p>
+        <p>
+          Github:
+          <a href="https://github.com/aryanshah012"
+            >https://github.com/aryanshah012</a
+          >
+        </p>
+        <p>Vercel
+            <a href="https://vercel.com/aryan-shahs">https://vercel.com/aryan-shahs</a>
+        </p>
+        <p>Conatct No.: <a href="8002868253">8002868253</a></p>
+      </div>
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://lh3.googleusercontent.com/a/ACg8ocIxiBPl5EkTk9SpROuaOxfhGBDZp4heg-U2FlpXBfarHg=s576-c-no"
+              alt="Aryan's Photo"
+              height="100px"
+              width="100"
+            />
+          </td>
+          <td>
+            Motivated and ambitious first-year student at IIT Guwahati, eager to
+            apply my foundational knowledge in Data Science and Artificial
+            Intelligence to real-world problems. Seeking opportunities to learn
+            and contribute to projects that foster my growth in this dynamic
+            field. I love to explore various technologies and framework to
+            develop efficient and scalable solutions.I am constantly extending
+            my skills and staying up-to-date with the latest advancements in the
+            field of software development.Currently joined a residential program for DS&AI at pw IOI.
+          </td>
+        </tr>
+      </table>
+
+      <section>
+        <h2>Education</h2>
+       <ul>
+        <li>Indian Institute of Technology (IIT), Guwahati
+            Bachelor of Science (B.Sc) in Data Science & Artificial Intelligence 
+            Oct2023 - Sept2027</li>
+        <li>JPKI International School of Competence
+            Indermediate(12<sup>th</sup>)
+            2020 - 2022
+        </li>
+        <li>MV St. Albert's School
+            Matric(10<sup>th</sup>)
+            2020
+        </li>
+       </ul>
+    
+       <h4>Relevent Coursework</h4>
+       <ul>
+        <li>Introduction to Data Science</li>
+        <li>Programming and Algorithms</li>
+        <li>Basics of Machine Learnin</li>
+        <li>Mathematics for Artificial Intelligence</li>
+        <li>Computer Science Fundamentals</li>
+       </ul>
+      </section>
+
+
+      <section>
+        <h2>skills</h2>
+        <ul>
+            <li>C</li>
+            <li>Phython</li>
+            <li>HTML</li>
+            <li>Excel</li>
+            <li>PowerPoint</li>
+            <li>DaVinci</li>
+            </ul>
+      </section>
+
+
+      <section>
+        <h2>Achievements</h2>
+      <ul>
+        <li>Created own website for different langauage problem solving named codeX </li>
+        <li>Won Science Exhibition Inter School Compition </li>
+      </ul>
+    </section>
+
+    <footer>&#169;2024 Aryan Shah. All rights reserved</footer>
+
+
+
+    </div>
+  </body>
+</html>
